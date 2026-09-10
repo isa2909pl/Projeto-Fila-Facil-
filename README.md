@@ -148,3 +148,9 @@ Pessoas à sua frente: 4
 Posição: 5º
 
 Conforme os atendimentos acontecem, a posição diminui.
+
+
+<img width="1857" height="697" alt="image" src="https://github.com/user-attachments/assets/4864149e-c90a-4707-aa86-d2b4c947fa54" />
+
+<img width="1796" height="985" alt="image" src="https://github.com/user-attachments/assets/a4102e76-66d8-461b-9559-7ff3672f56ca" />
+
